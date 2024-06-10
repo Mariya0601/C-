@@ -1,0 +1,15 @@
+C:\Users\79152\Desktop\CS\EX_2\bin\Debug\net7.0\EX_2.exe
+C:\Users\79152\Desktop\CS\EX_2\bin\Debug\net7.0\EX_2.deps.json
+C:\Users\79152\Desktop\CS\EX_2\bin\Debug\net7.0\EX_2.runtimeconfig.json
+C:\Users\79152\Desktop\CS\EX_2\bin\Debug\net7.0\EX_2.dll
+C:\Users\79152\Desktop\CS\EX_2\bin\Debug\net7.0\EX_2.pdb
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.csproj.AssemblyReference.cache
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.AssemblyInfoInputs.cache
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.AssemblyInfo.cs
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.csproj.CoreCompileInputs.cache
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.dll
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\refint\EX_2.dll
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.pdb
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\EX_2.genruntimeconfig.cache
+C:\Users\79152\Desktop\CS\EX_2\obj\Debug\net7.0\ref\EX_2.dll
